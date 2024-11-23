@@ -752,7 +752,7 @@ int main() {
     container.shrinkToFit();
 
     std::cout << "Размер контейнера после shrinkToFit: " << container.getSize() << std::endl;
-    std::cout << "Емкость контейнера после shrinkToFit: " << container.getCapacity() << std::endl;
+    std::cout << "Емкость контейнера после shrinkToFit1: " << container.getCapacity() << std::endl;
 
     return 0;
 }
