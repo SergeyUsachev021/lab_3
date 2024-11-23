@@ -5,7 +5,7 @@ on:
   # событие запускаем
   push:
     branches:
-      - SergeyUsachev021
+      - SergeyUsachev021/lab_3
       - feature/github_actions
 
 jobs:
