@@ -716,7 +716,7 @@ int main() {
     SinglyLinkedList  Singl_lst;
 
     // Вызов функции тестирования для каждого контейнера
-    testContainer("SequentialContainer", vec);
+    testContainer("SequentialConta2iner", vec);
     testContainer("DoubleLinkedList", Double_lst);
     testContainer("SinglyLinkedList", Singl_lst);
 
